@@ -1,7 +1,7 @@
 {
-  "latest": 2.0.0,
+  "latest": 1.0.0,
   "beta": true,
   "client-name": "Zyrex Client",
-  "readable-version": "(2.0.0/Beta)",
-  "full-name": "Zyrex Client (2.0.0/Beta)"
+  "readable-version": "(1.0.0/Beta)",
+  "full-name": "Zyrex Client (1.0.0/Beta)"
 }
